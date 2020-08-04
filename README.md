@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi guys 👋
+
+```bash
+for f in *.rar; do unrar e -kb -y "$f"; done
+```
 
 <!--
 **VegeFira/VegeFira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
